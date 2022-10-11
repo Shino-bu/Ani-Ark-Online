@@ -8,9 +8,9 @@ Ani Ark Online, I- Shinobu, and its Staff team do not support any kind of ill be
 - Using any kind of bugs, errors, glitch on the bot to take advantage in resources.<br>
 <p>
 • We request you to report it immediately in official server.<br></p>
-- Automating account(self-bot) to gain unfair lead among the other players.<br>
-- Cross trade & RMT(Real Money Trade).<br>
-   • Includes 'Server Roles', 'Server Position'.<br>
+<p>- Automating account(self-bot) to gain unfair lead among the other players.<br></p>
+<p>- Cross trade & RMT(Real Money Trade).<br>
+   • Includes 'Server Roles', 'Server Position'.<br></p>
 - Involving/supporting those who is doing the above act.<br>
 
 We kindly appreciate you if you are not involved in these activities and will not want you to do so.
