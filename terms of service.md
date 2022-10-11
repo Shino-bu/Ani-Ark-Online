@@ -22,10 +22,10 @@ We kindly appreciate you if you are not involved in these activities and will no
 <br>
 As if you want to know I might tell you that Ani Ark Online is an F2P(Free to Play) discord game bot that I made for fun. Well because of that the bot is running in a free server which gives us a great disadvantage.<br>
 
-Pros<br>
+### Pros<br>
 - Free to play<br>
 
-Cons<br>
+### Cons<br>
 - Hosting ends(no 24/7)<br>
 - Less Characters<br>
 - Shuts down for every 5 mins sometimes.<br>
