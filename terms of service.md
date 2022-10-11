@@ -29,3 +29,10 @@ As if you want to know I might tell you that Ani Ark Online is an F2P(Free to Pl
 - Hosting ends(no 24/7)<br>
 - Less Characters<br>
 - Shuts down for every 5 mins sometimes.<br>
+</details>
+
+<details>
+<summary>Faqs</summary>
+<br>
+Nothing to show right now.
+</details>
