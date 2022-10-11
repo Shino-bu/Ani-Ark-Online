@@ -4,11 +4,11 @@ Ani Ark Online, I- Shinobu, and its Staff team do not support any kind of ill be
 
 <details>
 <summary>Terms of Service</summary>
-
-- Using any kind of bugs, errors, glitch on the bot to take advantage in resources.
+<br>
+- Using any kind of bugs, errors, glitch on the bot to take advantage in resources.<br>
    • We request you to report it immediately in official server.
 - Automating account(self-bot) to gain unfair lead among the other players.
-- Cross trade & RMT(Real Money Trade).
+- Cross trade & RMT(Real Money Trade).<br>
    • Includes 'Server Roles', 'Server Position'.
 - Involving/supporting those who is doing the above act.
 
